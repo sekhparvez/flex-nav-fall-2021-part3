@@ -1,0 +1,16 @@
+{
+  "name": "flex-nav",
+  "version": "1.0.0",
+  "description": "A simple navbar",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server 'app' --files 'app'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "browser-sync": "^2.26.0"
+  }
+}
